@@ -285,7 +285,7 @@ Inserts the finalized **structured company profile data** into the `Company_Deta
 
 ---
 
-## 🌐 API Endpoint Details
+## 🌐 STORM API Endpoint Details
 
 | **Route**      | `/get_article`                                  |
 |----------------|-------------------------------------------------|
