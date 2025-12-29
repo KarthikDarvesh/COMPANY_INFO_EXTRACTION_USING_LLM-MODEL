@@ -3,6 +3,7 @@
 This repository **does NOT contain any real company information**.
 All examples, workflows, diagrams, and descriptions are provided **strictly for architecture, workflow, and process explanation purposes only**.
 No confidential, proprietary, or actual company data is included or exposed.
+
 ---
 
 # 🧠 Company_Info_Extraction
