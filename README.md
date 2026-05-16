@@ -1,5 +1,5 @@
 
-# 🧠 NIFTY_50_Company_Information_Extraction
+# 🧠 NIFTY_100_Company_Information_Extraction
 ---
 ---
 
