@@ -100,7 +100,7 @@ The workflow extracts and organizes the following major sections:
 ---
 ---
 
-## N8N WORKFLOW - (WITHOUT RELAYING ON THE STORM API)
+## N8N WORKFLOW - (WITHOUT RELAYING ON THE STORM)
 ![image](https://github.com/user-attachments/assets/f6d11cc8-759d-4d40-9a33-117ee89fd13f)
 
 ## 📋 Overview
