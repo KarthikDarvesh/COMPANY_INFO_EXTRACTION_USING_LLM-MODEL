@@ -253,7 +253,7 @@ Sends API requests to **STORM** to get additional responses or enrichments.
 
 ---
 
-## 🔄 Part 2 → Dual Path Processing (With & Without Summary)
+## 🔄 Part B → Dual Path Processing (With & Without Summary)
 
 **Purpose:**
 
@@ -356,7 +356,7 @@ Checks if an API-Response exists and splits the flow into two branches:
 
 ---
 
-## 📤 Part 3: Final Combination & Data Output
+## 📤 Part C: Final Combination & Data Output
 
 ### 1️⃣ Code Node: 
 **Name:** `Merge Both Clean Text`
