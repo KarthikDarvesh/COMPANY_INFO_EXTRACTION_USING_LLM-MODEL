@@ -403,8 +403,7 @@ This API is powered by **FastAPI + Selenium automation** and is used to:
 - ✅ Automatically fill in the **Title & Response** fields for each company
 - ✅ Generate and extract an **article** that acts as a **knowledge base** for the AI agent
 
-The article is used downstream in **n8n** to help the AI Agent (Model) fill in all detailed company information parameters:
-Business, Finance, Strategy, History, and More
+### The article is used downstream in **n8n** to help the AI Agent (Model) fill in all detailed company information parameters: Business, Finance, Strategy, History, and More
 
 ### 🚨 Note
 
