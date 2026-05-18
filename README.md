@@ -105,7 +105,7 @@ The workflow extracts and organizes the following major sections:
 
 ## 📋 Overview
 
-This workflow is designed to **automatically generate detailed company profiles** using only the **input parameters provided**—without relying on the STORM API or any third-party data enrichment tools.
+This workflow is designed to **automatically generate detailed company profiles** using only the **input parameters provided**—without relying on the STORM or any third-party data enrichment tools.
 
 ## 🛠 Workflow Nodes & Descriptions
 ---
